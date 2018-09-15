@@ -1,2 +1,2 @@
 # school_of_athens
-This repository exists to archive my own notes on philosophical papers.
+This repository is a record of my original analyses of philosophical papers.
